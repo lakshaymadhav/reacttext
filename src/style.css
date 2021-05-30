@@ -1,0 +1,28 @@
+h1 {
+  font-family: 'Brush Script MT', cursive;
+  text-align: center;
+  color: #f9f9ff;
+  font-size: 50px;
+}
+h2 {
+  font-family: 'Brush Script MT', cursive;
+  text-align: center;
+  color: #f9f9ff;
+  font-size: 40px;
+}
+p {
+  font-family: 'Garamond', serif;
+  text-align: center;
+  color: #f9f9ff;
+  font-size: 30px;
+}
+body {
+  background-color: #353353;
+  padding: 20px;
+  margin: 0;
+  align-items: center;
+  box-align: center;
+}
+a {
+  text-decoration: none;
+}
